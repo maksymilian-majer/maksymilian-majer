@@ -3,7 +3,7 @@
 
 I am a software engineer and entrepreneur in the HR and HR-Tech space. 
 
-- 🔭 I’m currently working on [ITCraftship](https://www.itcraftship.com)
+- 🔭 I’m currently working on [ITCraftship](https://www.itcraftship.com) and [Nursa](https://nursa.com/)
 - 👯 I’m looking to collaborate on building digital products and screening top talent
 - 💬 Ask me about hybrid mobile development and interview engineering
 - 📫 How to reach me: maksymilian@itcraftship.com
